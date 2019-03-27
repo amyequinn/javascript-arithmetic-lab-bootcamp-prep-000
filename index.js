@@ -1,6 +1,6 @@
-var a=800;
-var b=76;
+var a = 10
+var b = 15
 function add(a,b){
-add=(a+b);
-console.log(add);
+  a += b
 }
+console.log(add)
