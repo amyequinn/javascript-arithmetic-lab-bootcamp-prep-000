@@ -1,6 +1,6 @@
-a=1;
-b=2;
+var a=1;
+var b=2;
 function add(a, b){
-  add(a+=b);
-  result (add);
+add = (a+=b);
+console.log(add);
 }
